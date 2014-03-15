@@ -1,4 +1,4 @@
 task-notify
 ===========
 
-Various notifications for taskwarrior
+Various notifications for taskwarrior.
